@@ -2,9 +2,7 @@ Participated in a competitive project aimed at predicting clients' likelihood of
 
 Key Contributions:
 
-Developed machine learning models to predict loan default risk.
-Focused on ensuring model stability and long-term reliability.
-Utilized various statistical and data analysis methods to improve prediction accuracy.
-Enhanced the accessibility of loans to underbanked populations by providing more accurate risk assessments.
-Collaborated with a team to refine and validate predictive models.
-This project underlines my commitment to using data science for social good, aligning with my interest in technology-driven solutions for societal challenges.
+Developed machine learning models to predict loan default risk.</br>
+Focused on ensuring model stability and long-term reliability.<br>
+Utilized various statistical and data analysis methods to improve prediction accuracy.<br>
+Enhanced the accessibility of loans to underbanked populations by providing more accurate risk assessments.<br>
